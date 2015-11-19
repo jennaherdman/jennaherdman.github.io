@@ -1,6 +1,3 @@
-#The Visual Voice: Distant-Reading and Visualization
-**By Jenna Herdman & Allie Watson**
-
 ##Introduction 
 This blog approaches methods of analysis to the study of literature using *big data*. In the study of literature, the method of *close reading* is historically privileged. Close reading entails examining a small piece of a text to analyze the mechanisms of form and style, thus drawing conclusions about the specific workings of the text. For example, what is the significance of a run-on sentence in a moment of crisis for a character? What can be drawn from this passage when understanding the themes of the text as a whole? 
 
